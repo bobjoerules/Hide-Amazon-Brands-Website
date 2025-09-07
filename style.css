@@ -1,0 +1,21 @@
+@font-face {
+ font-family: 'Rubik';
+ src: url(Rubik-VariableFont_wght.ttf) format('truetype');
+ font-weight: 100 900;
+}
+
+html, body{
+    color: white;
+    font-family: Rubik, Verdana, Geneva, Tahoma, sans-serif;
+    background: #111111 radial-gradient(circle at 76% 26%, #171717 0, #111111 57%, #111111 100%);
+    margin: 0;
+    padding: 0;
+}
+a img {
+    background: #222222;
+    border-radius: 20px;
+    padding: 10px;
+}
+a{
+    margin: 5px;
+}
